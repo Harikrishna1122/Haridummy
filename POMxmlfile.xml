@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name ="FreeCrm">
+<test name = "sampleTest">
+<classes>
+<class name="crm.pom.testdata.Logintest"/>
+<class name="crm.pom.testdata.HomepageTest"/>
+<class name="crm.pom.testdata.ContactsTest"/>
+</classes>
+</test>
+</suite>
